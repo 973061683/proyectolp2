@@ -20,9 +20,14 @@
 	font-size: 20px;
 	padding: 0px;
 	text-align: center;
-        margin-left: 100px;
+        margin: auto;
+       
 	
    color: #060;
+}
+.me{
+    margin-right: -300px;
+    margin-bottom: -40px;
 }
 .titulo{
 	
@@ -37,7 +42,8 @@
 .img {
 
 	margin-bottom: -30px;
-	margin-left: -999px;
+	margin-left: -899px;
+       
 
 }
 .cuerpo0{

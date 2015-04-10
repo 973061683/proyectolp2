@@ -28,6 +28,7 @@
 	 		<img src="recursos/img/logo10.png"   with="10" height="90"   >
 	 	</div>
                  
+                 <div class="me">
                  <div class="btn-group">
                    <button type="button" class="btn btn-success"> <span class="glyphicon glyphicon-star" aria-hidden="true"></span> 
                        Inicio</button>
@@ -39,7 +40,7 @@
                    
                 </div>
                 <div class="btn-group">
-                    <button type="button" class="btn btn-primary"> <span class="glyphicon glyphicon-align-justifyalign-justify" aria-hidden="true"></span>Registros</button>
+                    <button type="button" class="btn btn-primary"> <span class="glyphicon glyphicon-list" aria-hidden="true"></span>Registros</button>
                     <button type="button" class="btn success" data-toggle="dropdown" aria-expanded="false">
                       <span class="caret"></span>
                       <span class="sr-only">Toggle Dropdown</span>
@@ -62,15 +63,17 @@
                 </div>
               
                 <div class="btn-group">
-                   <button type="button" class="btn btn-info"> <span class="glyphicon glyphicon-off" aria-hidden="true"></span>
+                   <button type="button" class="btn btn-danger"> <span class="glyphicon glyphicon-off" aria-hidden="true"></span>
                        Cerrar Secion</button>
-                    <button type="button" class="btn success" data-toggle="dropdown" aria-expanded="false">
+                    <button type="button" class="btn-default" data-toggle="dropdown" aria-expanded="false">
                       
                       <span class="caret"></span>
                       <span class="sr-only">Toggle Dropdown</span>
                     </button>
                     
                 </div>
+                     
+                       </div>
 	</header >
 
 	<div>
