@@ -39,7 +39,7 @@
                    
                 </div>
                 <div class="btn-group">
-                    <button type="button" class="btn btn-primary"> <span class="glyphicon glyphicon-home" aria-hidden="true"></span>Registros</button>
+                    <button type="button" class="btn btn-primary"> <span class="glyphicon glyphicon-align-justifyalign-justify" aria-hidden="true"></span>Registros</button>
                     <button type="button" class="btn success" data-toggle="dropdown" aria-expanded="false">
                       <span class="caret"></span>
                       <span class="sr-only">Toggle Dropdown</span>
@@ -50,7 +50,7 @@
                 </div>
                  
                 <div class="btn-group">
-                   <button type="button" class="btn btn-info"> <span class="glyphicon glyphicon-star" aria-hidden="true"></span> Reportes</button>
+                   <button type="button" class="btn btn-info"> <span class="glyphicon glyphicon-list-alt" aria-hidden="true"></span> Reportes</button>
                     <button type="button" class="btn success" data-toggle="dropdown" aria-expanded="false">
                       
                       <span class="caret"></span>
@@ -62,7 +62,7 @@
                 </div>
               
                 <div class="btn-group">
-                   <button type="button" class="btn btn-info"> <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                   <button type="button" class="btn btn-info"> <span class="glyphicon glyphicon-off" aria-hidden="true"></span>
                        Cerrar Secion</button>
                     <button type="button" class="btn success" data-toggle="dropdown" aria-expanded="false">
                       
