@@ -4,11 +4,7 @@
 		padding: 0px;
                 color: black;
 		}
-		body{
-			background: url(recursos/img/logo11.png);
-			vertical-align: middle;
-                       
-		}
+		
 		form{
 			background:#333333;
 			width: 360px;
@@ -26,12 +22,12 @@
 			font-size: 40pt;
 			font-family: 'Pinyon Script', cursive;
 		}
-		form input{
+                        form input{
 			width: 280px;
 			height: 35px;
 			padding: 0px 10px;
 			margin: 10px 30px;
-			color: skyblue;
+			color: black;
 		        
 
 		}
@@ -39,9 +35,9 @@
 			width: 135px;
 			margin: 20px 0px 30px 30px;
 			height: 50px;
-			background: blue;
+			background: hsl;
 			 border: 1px solid #232323;
-			 color: black;
+			 color: red;
 			 box-shadow: 0px 2px 0px #000;
 			 -moz-box-shadow: 0px 2px 0px #000;
 			 -webkit-box-shadow: 0px 2px 0px #000;
@@ -54,8 +50,10 @@
 			}
 			form button:active{
 				background: #282828; 
-				background: #F40D8E;
+				background: scroll;
 			}
                         .t{
-                            background: skyblue;
+                        
+                        background: black;
+                        
                         }

@@ -1,91 +1,11 @@
-<!DOCTYPE html>
-<!DOCTYPE html>
-<html>
 
-<head>
-       
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>www.mipagina.com</title>
-	<link rel="stylesheet" href="css/estilios.css">
-        <link rel="stylesheet" href="css/estilio3.css">
-        
-         <link rel="stylesheet" href="css/estilo2.css">
-	<!-- Latest compiled and minified CSS -->
-    <link rel="stylesheet" href="boostrap/css/bootstrap.css">
-		
-</head>
- <body>
- 	
-	 
-        <div class="global">
-	<header class="cabecera">
-
-	 	<div  class="titulo" style="color:orange;"><font size ="6">NETMASTER </font></div>
-	 	 <div class="complemento"  style="color:#ff0000"></div>
-   
-	 	<div class="img">
-	 		<img src="recursos/img/logo10.png"   with="10" height="90"   >
-	 	</div>
-                 
-                 <div class="me">
-                 <div class="btn-group">
-                   <button type="button" class="btn btn-success"> <span class="glyphicon glyphicon-star" aria-hidden="true"></span> 
-                       Inicio</button>
-                    <button type="button" class="btn success" data-toggle="dropdown" aria-expanded="false">
-                      
-                      <span class="caret"></span>
-                      <span class="sr-only">Toggle Dropdown</span>
-                    </button>
-                   
-                </div>
-                <div class="btn-group">
-                    <button type="button" class="btn btn-primary"> <span class="glyphicon glyphicon-list" aria-hidden="true"></span>Registros</button>
-                    <button type="button" class="btn success" data-toggle="dropdown" aria-expanded="false">
-                      <span class="caret"></span>
-                      <span class="sr-only">Toggle Dropdown</span>
-                    </button>
-                    <ul class="dropdown-menu" role="inicio">
-                  
-                    </ul>
-                </div>
-                 
-                <div class="btn-group">
-                   <button type="button" class="btn btn-info"> <span class="glyphicon glyphicon-list-alt" aria-hidden="true"></span> Reportes</button>
-                    <button type="button" class="btn success" data-toggle="dropdown" aria-expanded="false">
-                      
-                      <span class="caret"></span>
-                      <span class="sr-only">Toggle Dropdown</span>
-                    </button>
-                    <ul class="dropdown-menu" role="menu">
-             
-                    </ul>
-                </div>
-              
-                <div class="btn-group">
-                   <button type="button" class="btn btn-danger"> <span class="glyphicon glyphicon-off" aria-hidden="true"></span>
-                       Cerrar Secion</button>
-                    <button type="button" class="btn-default" data-toggle="dropdown" aria-expanded="false">
-                      
-                      <span class="caret"></span>
-                      <span class="sr-only">Toggle Dropdown</span>
-                    </button>
-                    
-                </div>
-                     
-                       </div>
-	</header >
-
-	<div>
+<%@include file="WEB-INF/jspf/top.jsp" %>
+	
 	<section>
 	 <div class="row marketing">
-		
-             
-             
+
              <aside class="carrou">
-                 
-                 
-           
+
                     <div id="myCarousel" class="carousel slide">
 				  <ol class="carousel-indicators">
 				    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -121,35 +41,12 @@
 			</div>
                  </aside>
              
-		<div class="cuerpo2">
-	        <div class="col-lg-6">
-	        	<div class="tex">
-	        	<h3 ><font size="6" >NETMASTER</font></h3>
-	        	</div>	
-			    <h4>NetMaster</h4>
-			    <font color="navy" size="4">
-			    <p>  NetMaster esta orientada a brindar servicios de mantenimiento  de accesorios y equipos computalizados
-                            del mismo modo ofrece la venta de dispositivos electronicos ,pc,complementos entre otros </p>
-                            
-                                
-			    </font>
-	        </div>
-      	</div>
+		
      </div>
+        
+            
+           
      </section>
-   
-	<footer>
-
-	 	<div class="pie">
-
-	 		&copy	Derechos reservados por el autor Joel Llacsahuache Copia
-	 		
-	 	</div>
-	 </footer>
-	 </div>
-        </div>
-	
-	<script src="jquery/jquery-1.11.2.min.js"></script>
-    <script src="boostrap/js/bootstrap.js"></script>
-</body>
-</html>
+  
+      
+	<%@include file="WEB-INF/jspf/bottom.jsp" %>

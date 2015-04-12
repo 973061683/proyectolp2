@@ -1,17 +1,14 @@
-<%-- 
-    Document   : bottom
-    Created on : 10/04/2015, 03:05:04 PM
-    Author     : Toshiba
---%>
+<footer>
 
-<%@page contentType="text/html" pageEncoding="UTF-8"%>
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title></title>
-    </head>
-    <body>
-        <h1> </h1>
-    </body>
+	 	<div class="pie">
+
+	 		&copy	Derechos reservados por el autor Joel Llacsahuache Copia
+	 		
+	 	</div>
+</footer>
+	
+	
+	<script src="jquery/jquery-1.11.2.min.js"></script>
+    <script src="boostrap/js/bootstrap.js"></script>
+</body>
 </html>
