@@ -2,7 +2,12 @@
 
 	 	<div class="pie">
 
-	 		&copy	Derechos reservados por el autor Joel Llacsahuache Copia
+	 		&copy	Derechos reservados por los autores:
+                        "Joel Ll.Copia",
+                        "Kevin A.T.Tapia",
+                        "Diana C.S.Ramirez"
+                        
+                        
 	 		
 	 	</div>
 </footer>
